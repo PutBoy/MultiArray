@@ -3,6 +3,7 @@
  *  Use freely.
  *		Written: Sebastian Zander 19:54 2013-06-05
  */	
+#pragma once
 
 #include <vector>
 #include <array>
